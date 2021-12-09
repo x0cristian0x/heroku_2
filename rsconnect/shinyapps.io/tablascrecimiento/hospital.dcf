@@ -1,0 +1,13 @@
+name: hospital
+title: hospital
+username:
+account: tablascrecimiento
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5288039
+bundleId: 5348127
+url: https://tablascrecimiento.shinyapps.io/hospital/
+when: 1639015713.60564
+lastSyncTime: 1639015713.60564
+asMultiple: FALSE
+asStatic: FALSE
