@@ -5,9 +5,10 @@ account: tablascrecimiento
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5288039
-bundleId: 5348127
+bundleId: 5348288
 url: https://tablascrecimiento.shinyapps.io/hospital/
-when: 1639015713.60564
-lastSyncTime: 1639015713.60564
+when: 1639018925.24027
+lastSyncTime: 1639018925.24027
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: init.R|run.R
