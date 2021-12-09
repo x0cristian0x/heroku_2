@@ -3,7 +3,6 @@ source("packages.R")
 source("input_UI.R")
 
 
-options(encoding = 'UTF-8')
 Style_titulo <- "color:#e9e4f0; padding:0px; border:0px"
 
 ui <-
