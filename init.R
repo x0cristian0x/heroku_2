@@ -1,5 +1,5 @@
 my_packages = c("dplyr", "DT","lubridate","tidyr","htmltools","shinythemes",
-                "ggplot2", "Rcpp")
+                "ggplot2")
 
 install_if_missing = function(p) {
   if (p %in% rownames(installed.packages()) == FALSE) {
@@ -8,6 +8,6 @@ install_if_missing = function(p) {
     cat(paste("Skipping already installed package:", p, "\n"))
   }
 }
-
+helpers.installPackages("Rcpp")
 
 invisible(sapply(my_packages, install_if_missing))
